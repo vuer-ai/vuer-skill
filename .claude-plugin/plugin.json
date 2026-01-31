@@ -9,5 +9,5 @@
   "homepage": "https://docs.vuer.ai",
   "license": "MIT",
   "keywords": ["3d-visualization", "robotics", "genai", "webxr", "vr", "ar"],
-  "skills": "../skills/"
+  "skills": "./skills"
 }
