@@ -22,4 +22,4 @@ Skills for working with Vuer:
 
 ## Documentation
 
-See [docs.vuer.ai](https://docs.vuer.ai) for full documentation.
+See [docs.vuer.ai](https://docs.vuer.ai) for the 0.1 API. The vuer 0.2 guides (wire protocol 2, access tokens and roles, streaming queues, library mode, theme) and the 0.1 -> 0.2 migration guide are on the Dockit site in [`docs-site/`](https://github.com/vuer-ai/vuer/tree/main/docs-site) of vuer-ai/vuer.
